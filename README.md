@@ -5,7 +5,7 @@ How to run
 - `docker-compose up db -d`
 - create database name `aideavn`
 - `npx prisma migrate dev` to migrate database
-- import test db from .sql file
+- create test data
 
 
 ###
